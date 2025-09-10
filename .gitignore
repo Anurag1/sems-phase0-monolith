@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker
+*.log
+*.pid
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
